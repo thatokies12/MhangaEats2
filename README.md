@@ -1,7 +1,7 @@
 
-# KwaMhlanga Eats 🛵
+# Mhlanga Eatss 🛵
 
-**KwaMhlanga Eats** is a web-based delivery platform built to serve the KwaMhlanga community, connecting customers with local food and grocery vendors. The platform allows users to browse stores, place orders, track deliveries, and manage operations with multiple user roles.
+**Mhlanga Eats** is a web-based delivery platform built to serve the KwaMhlanga community, connecting customers with local food and grocery vendors. The platform allows users to browse stores, place orders, track deliveries, and manage operations with multiple user roles.
 
 > 🚧 Parcel and Document delivery coming soon!
 
